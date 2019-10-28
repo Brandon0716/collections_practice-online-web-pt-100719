@@ -26,5 +26,8 @@ def reverse_array(joke)
   joke.reverse
 end
  
- def kesha_maker
-   
+ def kesha_maker(love)
+   love.each do |hate|
+    hate[2] = "$"
+  end
+end
