@@ -37,3 +37,6 @@ def find_a(twiztid)
     band[0] == "a"
   end
 end
+
+def sum_array(mail)
+  
