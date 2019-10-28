@@ -26,3 +26,5 @@ def reverse_array(joke)
   joke.reverse
 end
  
+ def kesha_maker
+   
