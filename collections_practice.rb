@@ -39,4 +39,5 @@ def find_a(twiztid)
 end
 
 def sum_array(mail)
+  sum = 0 
   
