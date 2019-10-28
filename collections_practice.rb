@@ -33,4 +33,7 @@ end
 end
 
 def find_a(twiztid)
+  twiztid.find_all do |band|
+    band[0] == "a"
+  end
   
