@@ -21,3 +21,7 @@ def swap_elements(time)
   time[1], time[2] = time[2], time[1]
   time
 end
+
+def reverse_array(joke)
+  joke.reverse
+end
