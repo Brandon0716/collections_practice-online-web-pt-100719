@@ -40,4 +40,8 @@ end
 
 def sum_array(mail)
   sum = 0 
-  
+  mail.each do |num|
+    sum+=num
+  end
+  sum
+end
