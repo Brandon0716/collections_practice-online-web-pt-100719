@@ -47,11 +47,11 @@ def sum_array(mail)
 end
 
 def add_s(art)
-  art.collect do |word|
-    if art[1] == word
-      word
+  art.collect do |work|
+    if art[1] == work
+      work
     else
-      word + "s"
+      work + "s"
     end
   end
 end
