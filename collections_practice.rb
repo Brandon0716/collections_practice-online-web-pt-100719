@@ -19,5 +19,5 @@ sort_array_char_count(["dogs", "cat", "Horses"])
 
 def swap_elements(time)
   time[1], time[2] = time[2], time[1]
-  time
+  time 
 end
